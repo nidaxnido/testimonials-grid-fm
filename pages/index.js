@@ -37,7 +37,7 @@ export default function Home() {
         <Flex w='100vw' h={{base:'100%', sm:'100vh'}} bg="brand.lightGreyBlue"
         flexDir='column' justifyContent='center' alignItems='center' py={{base:'45px', sm:0}}
          >
-          <Grid h={{sm:'600px'}} w={{base:"90%", sm:"1000px"}}
+          <Grid h={{sm:'600px'}} w={{base:"90%", sm:"1200px"}}
                 templateRows={{base:'repeat(8, 1fr)', sm:"repeat(2, 1fr)"}}
                 templateColumns={{base:"repeat(1, 1fr)", sm:"repeat(4, 1fr)"}}
                 gap={4} color="brand.white" fontSize='13px' >
